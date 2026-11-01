@@ -157,7 +157,7 @@ Follow these steps to run TRUSTLENS AI on your computer.
 Open a terminal and execute:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/vipin05-db-debug/Hackathon
 ```
 
 Enter the project directory:
@@ -166,7 +166,7 @@ Enter the project directory:
 cd TRUSTLENS-AI
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with the actual GitHub repository URL.
+Replace `https://github.com/vipin05-db-debug/Hackathon` with the actual GitHub repository URL.
 
 ### Step 2: Configure the Backend
 
